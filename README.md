@@ -4,6 +4,11 @@
 
 ---
 
+### **Project Overview**
+For our final semester long project, we will develop a comprehensive tutorial on building a clinical decision support tool called the "Medical Evidence Synthesizer." This project will guide users through the data science pipeline to create a Retrieval Augmented Generation (RAG) model. The model will ingest complex, de-identified patient data combining structured lab results and unstructured clinical notes to generate a differential diagnosis. A key feature of this tool is its ability to provide verifiable, citable evidence for each diagnostic possibility directly from the source data, showcasing an end-to-end data science solution with a focus on machine learning and explainability.
+
+---
+
 ### **Course Information**
 - **Course:** DATA 602: Principle of Data Science - Fall 2025
 - **Instructor:** Dr. Fardina Alam
@@ -15,11 +20,6 @@
 - Shradha Anand
 - Ryan Kemajou
 - Lei Mao
-
----
-
-### **Project Overview**
-For our final semester-long project, we will develop a comprehensive tutorial on building a clinical decision support tool called the "Evidence Synthesizer." This project will guide users through the data science pipeline to create a Retrieval-Augmented Generation (RAG) model. The model will ingest complex, de-identified patient data—combining structured lab results and unstructured clinical notes—to generate a differential diagnosis. A key feature of this tool is its ability to provide verifiable, citable evidence for each diagnostic possibility directly from the source data, showcasing an end-to-end data science solution with a focus on machine learning and explainability.
 
 ---
 
@@ -47,9 +47,9 @@ For our final semester-long project, we will develop a comprehensive tutorial on
 ### **Tools & Libraries**
 - **Programming Language:** Python
 - **Data Science Libraries:** pandas, numpy, scikit-learn
-- **LLM & RAG Libraries:** Hugging Face Transformers, LangChain, LlamaIndex
-- **Deep Learning Frameworks:** PyTorch, TensorFlow
-- **Notebook Environment:** Jupyter, Google Colab
+- **LLM & RAG Libraries:** Hugging Face Transformers, LangChain, LightRAG
+- **Deep Learning Frameworks:** PyTorch
+- **Notebook Environment:** Jupyter
 - **Data Source:** MIMIC-IV
 
 ---
